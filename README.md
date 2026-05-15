@@ -42,10 +42,12 @@ Our model was tested rigorously, and below is a snapshot of the classification r
 | **Macro Avg F1-Score** | `87.52%` |
 | **Weighted Avg F1-Score** | `87.53%` |
 
-*Some notable class accuracies include:*
-- 🟢 **Jumping Up (A27)**: `98.74% F1`
-- 🟢 **Falling (A43)**: `99.08% F1`
-- 🟢 **Walking Towards (A59)**: `98.00% F1`
+### 🏆 Top 5 Performing Actions (F1-Score)
+1. 🟢 **Falling (A43)**: `99.08%`
+2. 🟢 **Jump Up (A27)**: `98.74%`
+3. 🟢 **Sitting Down (A08)**: `98.72%`
+4. 🟢 **Hugging (A55)**: `98.55%`
+5. 🟢 **Standing Up (A09)**: `98.35%`
 
 *For full details, please refer to the [`classification_report.txt`](classification_report.txt) and [`results.json`](results.json).*
 
