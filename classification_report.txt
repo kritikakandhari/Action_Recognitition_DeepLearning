@@ -1,0 +1,66 @@
+                            precision    recall  f1-score   support
+
+           A01 drink water     0.8566    0.8285    0.8423       274
+        A02 eat meal/snack     0.9012    0.7964    0.8456       275
+        A03 brushing teeth     0.7090    0.8388    0.7685       273
+         A04 brushing hair     0.8065    0.8242    0.8152       273
+                  A05 drop     0.8958    0.8436    0.8689       275
+                A06 pickup     0.9889    0.9745    0.9817       275
+                 A07 throw     0.9463    0.8327    0.8859       275
+          A08 sitting down     0.9854    0.9890    0.9872       273
+           A09 standing up     0.9853    0.9817    0.9835       273
+              A10 clapping     0.7465    0.7766    0.7612       273
+               A11 reading     0.6286    0.4835    0.5466       273
+               A12 writing     0.5405    0.6140    0.5749       272
+         A13 tear up paper     0.8791    0.8856    0.8824       271
+           A14 wear jacket     0.9371    0.9745    0.9554       275
+       A15 take off jacket     0.9708    0.9638    0.9673       276
+           A16 wear a shoe     0.8832    0.8864    0.8848       273
+       A17 take off a shoe     0.9444    0.8066    0.8701       274
+       A18 wear on glasses     0.8306    0.9158    0.8711       273
+      A19 take off glasses     0.9189    0.8686    0.8931       274
+      A20 put on a hat/cap     0.8071    0.9228    0.8611       272
+    A21 take off a hat/cap     0.9053    0.8755    0.8901       273
+              A22 cheer up     0.9427    0.9015    0.9216       274
+           A23 hand waving     0.7879    0.7591    0.7732       274
+     A24 kicking something     0.9711    0.9746    0.9729       276
+     A25 reach into pocket     0.9352    0.8431    0.8868       274
+               A26 hopping     0.9018    0.9345    0.9179       275
+               A27 jump up     0.9821    0.9928    0.9874       276
+     A28 make a phone call     0.8414    0.9455    0.8904       275
+    A29 playing with phone     0.5884    0.6655    0.6246       275
+    A30 typing on keyboard     0.6399    0.7818    0.7038       275
+    A31 point to something     0.8197    0.7246    0.7692       276
+       A32 taking a selfie     0.6978    0.8116    0.7504       276
+    A33 check time (watch)     0.9434    0.9058    0.9242       276
+A34 rub two hands together     0.7630    0.7464    0.7546       276
+          A35 nod head/bow     0.9348    0.9348    0.9348       276
+            A36 shake head     0.9303    0.8255    0.8748       275
+             A37 wipe face     0.9101    0.8804    0.8950       276
+                A38 salute     0.8897    0.9348    0.9117       276
+    A39 put palms together     0.8780    0.9130    0.8952       276
+  A40 cross hands in front     0.9435    0.9674    0.9553       276
+          A41 sneeze/cough     0.8648    0.7645    0.8115       276
+            A42 staggering     0.8531    0.9891    0.9161       276
+               A43 falling     1.0000    0.9818    0.9908       275
+            A44 touch head     0.8127    0.7391    0.7742       276
+           A45 touch chest     0.8412    0.8442    0.8427       276
+            A46 touch back     0.9231    0.9565    0.9395       276
+            A47 touch neck     0.9245    0.8877    0.9057       276
+       A48 nausea/vomiting     0.8806    0.8582    0.8692       275
+              A49 fan self     0.8452    0.7745    0.8083       275
+      A50 punch/slap other     0.9459    0.8942    0.9193       274
+         A51 kicking other     0.9888    0.9565    0.9724       276
+         A52 pushing other     0.9331    0.9601    0.9464       276
+           A53 pat on back     0.8905    0.8841    0.8873       276
+ A54 point finger at other     0.9466    0.8986    0.9219       276
+               A55 hugging     0.9819    0.9891    0.9855       274
+      A56 giving something     0.9396    0.9022    0.9205       276
+          A57 touch pocket     0.8746    0.9382    0.9053       275
+           A58 handshaking     0.9195    0.9928    0.9547       276
+       A59 walking towards     0.9712    0.9890    0.9800       273
+         A60 walking apart     0.9853    0.9710    0.9781       276
+
+                  accuracy                         0.8751     16487
+                 macro avg     0.8782    0.8749    0.8752     16487
+              weighted avg     0.8783    0.8751    0.8753     16487
